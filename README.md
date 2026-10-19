@@ -60,6 +60,14 @@
 
 <sub>该项目是对开源课程设计项目的学习性 fork，用于课程实践。</sub>
 
+### [chatroom-server](https://github.com/3095057969/chatroom-server)
+
+**C 课程设计 · HTTP + WebSocket 聊天室服务器**
+
+用约 1700 行 C 手写 HTTP 与 WebSocket 双协议服务器：8080 端口负责登录与静态页面，8888 端口负责实时消息广播，未引入任何第三方网络库。
+
+`C` `Winsock2` `WebSocket` `多线程` `SHA1`
+
 ## 现在
 
 - 用 Java 补 **数据结构与算法**
