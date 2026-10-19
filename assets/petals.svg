@@ -2,9 +2,9 @@
 <title>Falling petals</title>
 <style>
 @keyframes fall{0%{transform:translateY(-50px);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateY(230px);opacity:0}}
-@keyframes d1{0%{transform:translateX(0) rotate(0deg) scaleX(1)}25%{transform:translateX(10px) rotate(95deg) scaleX(.45)}50%{transform:translateX(0) rotate(190deg) scaleX(1)}75%{transform:translateX(-10px) rotate(285deg) scaleX(.45)}100%{transform:translateX(0) rotate(380deg) scaleX(1)}}
-@keyframes d2{0%{transform:translateX(0) rotate(0deg) scaleX(1)}25%{transform:translateX(20px) rotate(95deg) scaleX(.45)}50%{transform:translateX(0) rotate(190deg) scaleX(1)}75%{transform:translateX(-20px) rotate(285deg) scaleX(.45)}100%{transform:translateX(0) rotate(380deg) scaleX(1)}}
-@keyframes d3{0%{transform:translateX(0) rotate(0deg) scaleX(1)}25%{transform:translateX(34px) rotate(95deg) scaleX(.45)}50%{transform:translateX(0) rotate(190deg) scaleX(1)}75%{transform:translateX(-34px) rotate(285deg) scaleX(.45)}100%{transform:translateX(0) rotate(380deg) scaleX(1)}}
+@keyframes d1{0%{transform:translateX(0) rotate(0deg) scaleX(1)}25%{transform:translateX(10px) rotate(95deg) scaleX(.62)}50%{transform:translateX(0) rotate(190deg) scaleX(1)}75%{transform:translateX(-10px) rotate(285deg) scaleX(.62)}100%{transform:translateX(0) rotate(380deg) scaleX(1)}}
+@keyframes d2{0%{transform:translateX(0) rotate(0deg) scaleX(1)}25%{transform:translateX(20px) rotate(95deg) scaleX(.62)}50%{transform:translateX(0) rotate(190deg) scaleX(1)}75%{transform:translateX(-20px) rotate(285deg) scaleX(.62)}100%{transform:translateX(0) rotate(380deg) scaleX(1)}}
+@keyframes d3{0%{transform:translateX(0) rotate(0deg) scaleX(1)}25%{transform:translateX(34px) rotate(95deg) scaleX(.62)}50%{transform:translateX(0) rotate(190deg) scaleX(1)}75%{transform:translateX(-34px) rotate(285deg) scaleX(.62)}100%{transform:translateX(0) rotate(380deg) scaleX(1)}}
 path{transform-box:fill-box;transform-origin:50% 50%}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
