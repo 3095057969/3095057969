@@ -8,6 +8,8 @@
 
 <div align="center">
 
+<img src="assets/petals.svg" width="100%" alt="飘落的花瓣" />
+
 # 你好，我是 Flower
 
 **计算机专业学生** · Java 后端方向
