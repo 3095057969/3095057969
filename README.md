@@ -68,6 +68,15 @@
 
 `C` `Winsock2` `WebSocket` `多线程` `SHA1`
 
+### [password-panic](https://github.com/3095057969/password-panic)
+
+**Web 前端 · 密码规则生存小游戏**
+
+包含 21 条逐条解锁的规则、3 个互动关卡和本地存档；从 8 个字符开始，最终得到一个刚好 42 个字符的密码。
+
+`HTML` `CSS` `JavaScript` `Node.js`
+
+[在线试玩](https://3095057969.github.io/password-panic/)
 ## 现在
 
 - 用 Java 补 **数据结构与算法**
