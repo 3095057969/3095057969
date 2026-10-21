@@ -25,6 +25,7 @@
 - 计算机相关专业在读，方向是 **Java 后端开发**
 - 关注 **面向对象设计**、**数据库建模** 与 **Web 应用分层**
 - 习惯先把文档和接口写清楚，再动手实现
+- 对 **机器视觉 / 图像处理** 有兴趣，写过线槽铜线检测与相机镜头选型工具
 - 相比炫技，更在意代码和文档是不是别人能看懂
 
 ## 技术栈
@@ -33,6 +34,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Web**
 
@@ -49,6 +51,16 @@
 <sub>另外用过：JSP · Servlet · JDBC · Maven · IntelliJ IDEA</sub>
 
 ## 项目与练习
+
+### [inductor-vision-inspection](https://github.com/3095057969/inductor-vision-inspection)
+
+**机器视觉 · 电感线槽铜线检测 + 相机选型工具**
+
+从电感照片里提取左右线槽的铜线，判断「有无」与「是否超出槽口」；配套一个「已知视野 + 精度要求 → 该买什么相机和镜头」的选型计算器，Python 版与纯静态网页版同一套公式。
+
+`Python` `NumPy` `Pillow` `JavaScript` `图像处理`
+
+[在线计算器](https://3095057969.github.io/inductor-vision-inspection/) · 6 张样本检出 3 处超差（均在左槽）
 
 ### [StudentManagement](https://github.com/3095057969/StudentManagement)
 
