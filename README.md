@@ -60,6 +60,14 @@
 
 `Python` `NumPy` `Pillow` `JavaScript` `图像处理`
 
+### [waste-sorting-flask-yolo](https://github.com/3095057969/waste-sorting-flask-yolo)
+
+**机器视觉 · 基于 YOLO 的四类垃圾识别展示网页**
+
+使用 Flask 调用 YOLO 模型，支持上传图片并展示中文检测标注、置信度与分类统计；可加载 `.pt` 或 ONNX 模型，图片和识别结果只在当前处理过程中使用。
+
+`Python` `Flask` `YOLO` `PyTorch` `ONNX` `Pillow`
+
 [在线计算器](https://3095057969.github.io/inductor-vision-inspection/) · 6 张样本检出 3 处超差（均在左槽）
 
 ### [StudentManagement](https://github.com/3095057969/StudentManagement)
